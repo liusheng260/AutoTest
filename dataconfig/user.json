@@ -1,8 +1,8 @@
 {
-"deposit":{"shop_code":"1002","sign":"33e5d15fe32e230fdacc839c2243aa05"},
-"yhzdz":{"shop_code":"1002","sign":"33e5d15fe32e230fdacc839c2243aa05"},
- "vip":{"shop_code":"6001","sign":"33e5d15fe32e230fdacc839c2243aa05","source":"6","vip_code":"刘升66"},
- "add_depositRecord":{"shop_code":"6001","sign":"33e5d15fe32e230fdacc839c2243aa05","add_time":"2018-03-17 08:00:00", "get_time":"2018-03-17 08:00:00",
+"deposit":{"shop_code":"1002","sign":"817da983fab01a03b9db8d2eb8fc74bb"},
+"yhzdz":{"shop_code":"1002","sign":"817da983fab01a03b9db8d2eb8fc74bb"},
+ "vip":{"shop_code":"6001","sign":"817da983fab01a03b9db8d2eb8fc74bb","source":"6","vip_code":"刘升66"},
+ "add_depositRecord":{"shop_code":"6001","sign":"817da983fab01a03b9db8d2eb8fc74bb","add_time":"2018-03-18 08:00:00", "get_time":"2018-03-18 08:00:00",
 "order_type[id]":"1",
 "order_type[name]":"已下订金",
 "get_type[id]":"0",
@@ -29,5 +29,5 @@
 "is_sure_person":"6001_000",
 "UserCode":"561250",
 "shop_code":"6001",
-"date":"2018-03-17 08:00:00"}
+"date":"2018-03-18 08:00:00"}
 }

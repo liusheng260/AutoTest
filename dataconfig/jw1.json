@@ -1,0 +1,1 @@
+{"login": {"username": "zhangsan", "password": "123456"}, "loginout": {"username": "lisi", "password": "111111"}, "addcart": {"name": "手机", "num": "20"}, "name2": "霍元甲2", "animals": [{"aname": "老鹰2", "bname": "猛虎2"}], "tool": {"namea": "锄头", "nameb": "镰刀"}, "name": "李小璐", "key": "jsonkey", "time": "jsonTime", "sign": "jsonsign"}

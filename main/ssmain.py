@@ -1,8 +1,8 @@
 #coding:utf-8
 
 #在非pycharm环境下 可以找关联模块
-#import sys
-#sys.path.append("/Users/liusheng/PycharmProjects/framework0307")
+import sys
+sys.path.append("/Users/liusheng/PycharmProjects/AutoTest")
 
 from base.runmethod import RunMethod
 from data.depend_data import DependdentData

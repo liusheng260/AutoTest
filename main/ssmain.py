@@ -42,6 +42,7 @@ class RunTest:
             request_data1 = self.data.get_data_for_json(i)
             #print(request_data1)
             request_data2 = self.api.http_curl()
+            #request_data2 = self.api.http_curl2()
             #print(request_data2)
             request_data = dict(request_data1)
             request_data.update(request_data2)

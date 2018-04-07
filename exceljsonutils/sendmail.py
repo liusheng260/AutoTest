@@ -33,7 +33,7 @@ class SendEmail:
 
         pass_result = "%.2f%%" %(pass_num/count_num*100)
         fail_result = "%.2f%%" %(fail_num/count_num*100)
-        user_list = ['1275254257@qq.com','qi.wu@baisonmail.com']
+        user_list = ['1275254257@qq.com']
         sub = "接口自动化测试报告"
         content = "此次共运行接口数为%s个，通过数为%s个，失败数为%s个，通过率为%s，失败率为%s" %(count_num,pass_num,fail_num,pass_result,fail_result)
         self.send_email(user_list,sub,content)
@@ -42,7 +42,7 @@ class SendEmail:
 
 if __name__=='__main__':
     send = SendEmail()
-    user_list = ['1275254257@qq.com','qi.wu@baisonmail.com']
+    user_list = ['1275254257@qq.com']
     sub = "测试邮件"
     content = "This is a first test email!"
     send.send_email(user_list,sub,content)

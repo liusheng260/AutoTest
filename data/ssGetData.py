@@ -5,7 +5,7 @@ from exceljsonutils.ssjsonutils import OperationJson
 
 
 class ssGetData:
-    #工具雷初始化
+    #工具类初始化
     def __init__(self):
         self.opera_excel = ssOperationExcel()
 

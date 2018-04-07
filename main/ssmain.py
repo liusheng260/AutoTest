@@ -70,11 +70,11 @@ class RunTest:
                 print("实际结果",res)
                 if self.com_util.is_contains(expect,res):
 
-                    print("测试通过")
+                    print("第"+str(i)+"个，测试通过")
                     self.data.write_result(i,"测试通过")
                     pass_count.append(i)
                 else:
-                    print("测试失败")
+                    print("第"+str(i)+"个，测试失败")
                     self.data.write_result(i,"测试失败")
                     fial_count.append(i)
         print("成功的个数：",len(pass_count))

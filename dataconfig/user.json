@@ -1,7 +1,10 @@
 {
 "deposit":{"shop_code":"1002"},
+
 "yhzdz":{"shop_code":"1002"},
+
  "vip":{"shop_code":"6001","source":"6","vip_code":"刘升66"},
+
  "add_depositRecord":{"shop_code":"6001","add_time":"2018-03-18 08:00:00", "get_time":"2018-03-18 08:00:00",
 "order_type[id]":"1",
 "order_type[name]":"已下订金",
@@ -30,5 +33,13 @@
 "UserCode":"561250",
 "shop_code":"6001",
 "date":"2018-03-18 08:00:00"},
- "promotion":{"lastchanged":"1521447220"}
+
+ "promotion":{"lastchanged":"1521447220"},
+
+ "user_role":{"user_code":"1002_000"},
+
+ "terminal_info":{"version_code":"v18.3.14","equipment_code":""},
+
+ "login_pos":{"shop_code":"1002","device":"be070b2b7da12bfe7e45b978f2eec96404dbd4da","user_code":"1002_000",
+  "password":"cf79ae6addba60ad018347359bd144d2","syt":"10086"}
 }
